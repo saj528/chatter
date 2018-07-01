@@ -23,6 +23,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'popper_js'
 gem 'bootstrap'
+gem 'devise'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
